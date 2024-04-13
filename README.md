@@ -17,7 +17,7 @@
 
 ### Visitor's Count:
 
-<a align="center" href="https://profile-counter.glitch.me/{Avinash905}/count.svg">
+<a align="center" href="https://profile-counter.glitch.me/{Abhishek-Shewale}/count.svg">
   
   ![VisitorCount](https://profile-counter.glitch.me/{Abhishek-Shewale}/count.svg)  
 </a>
@@ -46,8 +46,8 @@ On my GitHub, you'll find a variety of projects that showcase my skills and inte
 
 I'm always open to new opportunities and collaborations, so feel free to get in touch with me. Let's build something great together!
 
-<div align='center'><a href="https://github.com/Abhishek-Shewale" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/abhishekshewale/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:7.abhi.work@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/Abhishewale7" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://abhishek-shewale-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%235865F2.svg?style=for-the-badge&logo=portfolio&logoColor=white"></a>
+<div align='center'><a href="https://github.com/Abhishek-Shewale" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://abhishek-shewale-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%235865F2.svg?style=for-the-badge&logo=portfolio&logoColor=white"></a><a href="https://www.linkedin.com/in/abhishekshewale/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:7.abhi.work@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/Abhishewale7" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
 
 </div>
 <br/>
@@ -97,8 +97,7 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 <h4>Other Technologies</h4>
 <div align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render" /> </a>
-    <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" /> </a>
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" /> </a><a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render" /> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
 </div>
 
@@ -125,6 +124,6 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 
 <br/>
 
-<img alt="Abhishek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Shewale&bg_color=1f222e&color=f2d364&line=f85d7f&point=fc9867&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+<img alt="Abhishek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Shewale&bg_color=1f222e&color=f2d364&line=f85d7f&point=fc9867&area=true&hide_border=true" />
 
 <br />
