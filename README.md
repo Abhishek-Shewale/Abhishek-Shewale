@@ -4,7 +4,7 @@
     width="30"
   /> Hey! Welcome Nice to see you.
 </h1>
-<h1 align="center" style="color:purple;">I'm Dunna Avinash <img
+<h1 align="center" style="color:purple;">I'm Abhishek Shewale <img
     src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
     width="30"
   /></h1>
@@ -19,14 +19,14 @@
 
 <a align="center" href="https://profile-counter.glitch.me/{Avinash905}/count.svg">
   
-  ![VisitorCount](https://profile-counter.glitch.me/{Avinash905}/count.svg)  
+  ![VisitorCount](https://profile-counter.glitch.me/{Abhishek-Shewale}/count.svg)  
 </a>
 
 <br/>
 
 ### About Me
 
-I'm passionate about Web Development, Data Science, and Game Development and I love using technology to create innovative solutions that solve real-world problems. I have experience working on Web Development and I'm always eager to learn new skills.
+I'm passionate about Web Development I love using technology to create innovative solutions that solve real-world problems. I have experience working on Web Development and I'm always eager to learn new skills.
 
 If you're interested in my professional experience and skills, you can check out my resume.
 
@@ -39,14 +39,14 @@ If you're interested in my professional experience and skills, you can check out
 
 On my GitHub, you'll find a variety of projects that showcase my skills and interests. Some of my recent projects include:
 
-[Recipen](https://github.com/Avinash905/Recipen): A recipe website where users can discover recipes and food blogs. Pro users can add their own recipes and food blogs.<br/>
-[HealthBooker](https://github.com/Avinash905/HealthBooker): This is a healthcare platform where you can browse doctors, manage profiles, and book appointments.<br/>
+
+[HealthBooker]<!--(Your github repo link here)-->: This is a healthcare platform where you can browse doctors, manage profiles, and book appointments.<br/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Get in Touch
 
 I'm always open to new opportunities and collaborations, so feel free to get in touch with me. Let's build something great together!
 
-<div align='center'><a href="https://github.com/Avinash905" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/dunna-avinash" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:avinash.90527@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/avinashdunna" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<div align='center'><a href="https://github.com/Abhishek-Shewale" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/abhishekshewale/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:7.abhi.work@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/Abhishewale7" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://discord.com/users/744252684726435941/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 </div>
