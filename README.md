@@ -30,7 +30,8 @@ I'm passionate about Web Development I love using technology to create innovativ
 
 If you're interested in my professional experience and skills, you can check out my resume.
 
-[![Resume](https://img.shields.io/badge/Abhishek%20Shewale-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)]([https://drive.google.com/file/d/1eN5Nty_R1IsdWafjhJ6QKO7b5wWpdRw7/view?usp=sharing](https://drive.google.com/drive/folders/19toIBZRugbFQdHKzALJbblcVhOpLs2gZ))
+[![Resume](https://img.shields.io/badge/Abhishek%20Shewale-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://drive.google.com/drive/folders/19toIBZRugbFQdHKzALJbblcVhOpLs2gZ)
+
 
 
 <br/>
